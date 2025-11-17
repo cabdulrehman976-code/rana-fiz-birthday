@@ -30,8 +30,8 @@ Tumhari chhoti si height par hum jitna bhi mazaaq karte hain na, woh sirf isliye
 Aur haaan, main tumhein tang karta hoon GA, shayad aage bhi karta rahoon. Agar tum meri baaton ka bura maanna chahti ho to araam se maan lo, lekin tu jaanti hai ke yeh sab fun mein hota hai, kyun ke tu hamare liye genuinely special hai.
 
 Hansna bohot aaj, cake todna, pictures lenI.
-aur han yaad rakhna ka yeh  ku** hameha galia khana ka lya hazir jab bi app ko frustation charaha 
-aur a=hn verrrrry important!!!!!!! we want sugar 
+aur han yaad rakhna ka yeh  ku** hamesha galia khana ka lya hazir jab bi app ko frustation charaha ya ..... 
+aur han verrrrry important!!!!!!! we want sugar imported sugar 
 
 Phir se: Happy Birthday, Aura! 🎂💫`;
 
