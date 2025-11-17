@@ -33,7 +33,7 @@ Hansna bohot aaj, cake todna, pictures lenI.
 aur han yaad rakhna ka yeh  ku** hamesha galia khana ka lya hazir jab bi app ko frustation charaha ya ..... 
 aur han verrrrry important!!!!!!! we want sugar imported sugar 
 
-Phir se: Happy Birthday, Aura! 🎂💫`;
+Phir se: Happy Birthday, Miss Aura! 🎂💫`;
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -61,7 +61,7 @@ Phir se: Happy Birthday, Aura! 🎂💫`;
 
   const startTyping = () => {
     let index = 0;
-    const typingSpeed = 30; // milliseconds per character
+    const typingSpeed = 15; // milliseconds per character (faster)
 
     const typeInterval = setInterval(() => {
       if (index < fullMessage.length) {

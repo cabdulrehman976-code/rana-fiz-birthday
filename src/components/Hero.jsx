@@ -126,7 +126,7 @@ const Hero = () => {
         } else {
           clearInterval(typeInterval);
         }
-      }, 100);
+      }, 50); // Faster typewriter speed
       
       // Glow animation for title
       setTimeout(() => {
