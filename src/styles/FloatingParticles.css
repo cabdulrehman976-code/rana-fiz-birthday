@@ -1,0 +1,23 @@
+/* ====================================
+   FLOATING PARTICLES STYLES
+==================================== */
+
+.floating-particles-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.floating-particle {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 0 10px currentColor;
+  pointer-events: none;
+  will-change: transform, opacity;
+}
+
