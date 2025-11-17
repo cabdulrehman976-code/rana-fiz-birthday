@@ -27,9 +27,9 @@ Aur ab thori si roasting bhi ho jaye:
 
 Tumhari chhoti si height par hum jitna bhi mazaaq karte hain na, woh sirf isliye kyun ke tumhari "aura" itni badi hai ke height waise hi irrelevant lagti hai. Allah kare future tumhara itna lamba ho ke height ka topic khud hi chhota lagne lage. 😆
 
-Aur haaan, main tumhein tang karta hoon, shayad aage bhi karta rahoon. Agar tum meri baaton ka bura maanna chahti ho to araam se maan lo, lekin tu jaanti hai ke yeh sab fun mein hota hai, kyun ke tu hamare liye genuinely special hai.
+Aur haaan, main tumhein tang karta hoon GA, shayad aage bhi karta rahoon. Agar tum meri baaton ka bura maanna chahti ho to araam se maan lo, lekin tu jaanti hai ke yeh sab fun mein hota hai, kyun ke tu hamare liye genuinely special hai.
 
-Hansna bohot aaj, cake todna, pictures leni, aur yeh yaad rakhna ke tum hamari life ka ek unforgettable part ho.
+Hansna bohot aaj, cake todna, pictures lenI.
 
 Phir se: Happy Birthday, Aura! 🎂💫`;
 
